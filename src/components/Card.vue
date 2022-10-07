@@ -25,7 +25,7 @@ import { ChevronDownIcon } from "@heroicons/vue/20/solid";
 				<div class="mb-2 flex">
 					<div class="flex">
 						<img
-							src="../assets/Screenshot 2022-10-07 at 15.31.52.png"
+							src="../assets/1.png"
 							class="w-24 h-auto"
 							alt=""
 						/>
@@ -224,7 +224,7 @@ import { ChevronDownIcon } from "@heroicons/vue/20/solid";
 				<div class="mb-2 flex">
 					<div class="flex">
 						<img
-							src="../assets/Screenshot 2022-10-07 at 15.32.10.png"
+							src="../assets/2.png"
 							class="w-24 h-auto"
 							alt=""
 						/>
@@ -423,7 +423,7 @@ import { ChevronDownIcon } from "@heroicons/vue/20/solid";
 				<div class="mb-2 flex">
 					<div class="flex">
 						<img
-							src="../assets/Screenshot 2022-10-07 at 23.02.44.png"
+							src="../assets/3.png"
 							class="w-24 h-auto"
 							alt=""
 						/>
