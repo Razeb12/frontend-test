@@ -47,7 +47,7 @@ const Workbooks = [
 	<div>
 		<Layout>
 			<div class="py-10">
-				<div class="px-4 sm:px-4 lg:mx-auto lg:max-w-7xl lg:px-4 -mt-12">
+				<div class="px-4 sm:px-4 lg:mx-auto  lg:px-4 -mt-12">
 					<div class="py-6 md:flex md:items-center md:justify-between">
 						<div class="min-w-0 flex-1">
 							<!-- Profile -->
@@ -93,7 +93,7 @@ const Workbooks = [
 			</div>
 
 			<section>
-				<div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-4">
+				<div class="mx-auto px-4 sm:px-6 lg:px-8">
 					<h2 class="text-lg font-medium leading-6 text-gray-900">
 						Recent Workbooks
 					</h2>
@@ -104,14 +104,14 @@ const Workbooks = [
 					class="
 						mx-auto
 						mt-8
-						max-w-6xl
+					
 						px-4
 						text-lg
 						font-medium
 						leading-6
 						text-gray-900
 						sm:px-4
-						lg:px-4
+						lg:px-8
 					"
 				>
 					Recent activity
@@ -120,8 +120,9 @@ const Workbooks = [
 					<h2
 						class="
 							mx-auto
+              text-left
 							pt-8
-							max-w-6xl
+				
 							px-4
 							text-lg
 							font-medium
